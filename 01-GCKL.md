@@ -40,11 +40,11 @@
 
 - To open and launch the extracted **VM**, open a file manager window, navigate to the directory containing the extracted files, and double-click the **.vmx** file.
     
-    ![mceclip3.png](01-GCKL%209229ac70f2744f74b448b7407abd78c5/mceclip3.png)
+    ![mceclip3.png](00-assets/mceclip3.png)
     
 - As the virtual machine is starting up, VMware will display a prompt asking if you moved or copied the **VM**. Click the "I Copied It" button to continue.
 
-![lin-moved-or-copied1.png](01-GCKL%209229ac70f2744f74b448b7407abd78c5/lin-moved-or-copied1.png)
+![lin-moved-or-copied1.png](00-assets/lin-moved-or-copied1.png)
 
 - Once the VM has been booted, you can log in with the username of k**ali** and the password of k**ali**.
 - Make sure you change the default password with the **passwd** command after you have logged in.
@@ -58,13 +58,13 @@
 └─$ kali-undercover
 ```
 
-![Screenshot 2023-10-03 073515.png](01-GCKL%209229ac70f2744f74b448b7407abd78c5/Screenshot_2023-10-03_073515.png)
+![Screenshot 2023-10-03 073515.png](00-assets/Screenshot_2023-10-03_073515.png)
 
 ### 🤔 Why Kali Linux Not Windows
 
 - Kali Linux is open-source, which means that the code is freely available and auditable. This is important for security testing, as it allows testers to verify that the tools they are using are secure.
 
-![sxb7zfdcghy4trvui2mk.jpeg](01-GCKL%209229ac70f2744f74b448b7407abd78c5/sxb7zfdcghy4trvui2mk.jpeg)
+![sxb7zfdcghy4trvui2mk.jpeg](00-assets/sxb7zfdcghy4trvui2mk.jpeg)
 
 - Kali Linux is designed for security testing, and it comes pre-installed with a wide range of tools and utilities for this purpose. This saves testers the time and hassle of having to install and configure these tools themselves.
 - Kali Linux is lightweight and can be run on a variety of hardware, including laptops and virtual machines. This makes it easy for testers to deploy Kali Linux where they need it.
@@ -196,7 +196,7 @@
     
      **Linux and the UNIX system are case-sensitive**
     
-    ![b2b5c449a1ca3c83842342315c6ab43e4b9c964f.png](01-GCKL%209229ac70f2744f74b448b7407abd78c5/b2b5c449a1ca3c83842342315c6ab43e4b9c964f.png)
+    ![b2b5c449a1ca3c83842342315c6ab43e4b9c964f.png](00-assets/b2b5c449a1ca3c83842342315c6ab43e4b9c964f.png)
     
 - **man Command**
     
@@ -451,7 +451,7 @@
         
         **RTFM → Read The Fuking Manual**
         
-        ![2dref5n544k51.webp](01-GCKL%209229ac70f2744f74b448b7407abd78c5/2dref5n544k51.webp)
+        ![2dref5n544k51.webp](00-assets/2dref5n544k51.webp)
         
 - **help Command**
     
@@ -787,9 +787,9 @@
         - **For more Options…….**
             
             
-            ![Mao_RTFM_vectorize_by_cmenghi.png](01-GCKL%209229ac70f2744f74b448b7407abd78c5/Mao_RTFM_vectorize_by_cmenghi.png)
+            ![Mao_RTFM_vectorize_by_cmenghi.png](00-assets/Mao_RTFM_vectorize_by_cmenghi.png)
             
-            ![BabyRunGIF.gif](01-GCKL%209229ac70f2744f74b448b7407abd78c5/BabyRunGIF.gif)
+            ![BabyRunGIF.gif](00-assets/BabyRunGIF.gif)
             
 - **ls Command**
     
@@ -1001,17 +1001,17 @@
         
 - **cat command**
     
-    ![4nxl3m.jpg](01-GCKL%209229ac70f2744f74b448b7407abd78c5/4nxl3m.jpg)
+    ![4nxl3m.jpg](00-assets/4nxl3m.jpg)
     
     Cat(concatenate) command is very frequently used in Linux. It reads data from the file and gives its content as output. It helps us to create, view, and concatenate files. So let us see some frequently used cat commands.
     
-    ![systemd_cat.jpg](01-GCKL%209229ac70f2744f74b448b7407abd78c5/systemd_cat.jpg)
+    ![systemd_cat.jpg](00-assets/systemd_cat.jpg)
     
     - **Syntax:**
         
         `cat file_name`
         
-        ![1XHi4pf.png](01-GCKL%209229ac70f2744f74b448b7407abd78c5/1XHi4pf.png)
+        ![1XHi4pf.png](00-assets/1XHi4pf.png)
         
 - **which command**
     
@@ -1177,7 +1177,7 @@
     
 - **reference**
     
-    [rh_ip_command_cheatsheet_1214_jcs_print.pdf](01-GCKL%209229ac70f2744f74b448b7407abd78c5/rh_ip_command_cheatsheet_1214_jcs_print.pdf)
+    [rh_ip_command_cheatsheet_1214_jcs_print.pdf](00-assets/rh_ip_command_cheatsheet_1214_jcs_print.pdf)
     
 
 ### 🕸️ **Managing Kali services**
